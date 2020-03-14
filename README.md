@@ -1,8 +1,15 @@
-fast-elm is a elm clone project.
+fast-elm is an elm clone project.
 
-python + fastapi + mongodb.
+stack:
+  python + fastapi + mongodb.
 
 
 front end : vue2-elm
 admin end: vue-elm
 back end: fast-elm
+
+user guide:
+  run server: 
+    poetry install
+    poetry shell
+    ./fmrun.sh
