@@ -10,15 +10,19 @@
 - back end: fast-elm port 9001
 
 # user guide:
-  - environment:
-    - python 3.7
-    - fastapi
-    - mongodb 4
-    - environment tool: poetry
   - run backend server: 
+    - cd fast-elm
+    - environment
+      - python 3.7
+      - fastapi
+      - mongodb 4
+      - environment tool: poetry
     - poetry install
     - poetry shell
+    - start mongodb port 27017
+    - import data
     - ./fmrun.sh
+    - server run at http://localhost:9001
   - run frontend project
     - cd vue2-elm
     - npm install
