@@ -1,0 +1,7 @@
+uvicorn
+pydantic
+fastapi
+email-validator
+databases
+motor
+pyjwt
