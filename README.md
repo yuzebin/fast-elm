@@ -5,9 +5,10 @@
 - python + fastapi + mongodb.
 
 # relative project
-- front end : vue2-elm port 8000
-- admin end: vue2-manage port 8002
-- back end: fast-elm port 9001
+- back end project: fast-elm port 9001
+- front-end: [vue2-elm](https://github.com/bailicangdu/vue2-elm) port 8000
+- admin-end: [vue2-manage](https://github.com/bailicangdu/vue2-manage) port 8002
+- refer project: [node-elm](https://github.com/bailicangdu/node-elm)
 
 # user guide:
   - run backend server: 
@@ -44,9 +45,10 @@
 - python + fastapi + mongodb.
 
 # 相关项目：
-- 前端项目: vue2-elm 端口 8000
-- 管理端项目: vue2-manage 端口 8002
-- 后端项目: fast-elm 端口 9001
+- 本项目：后端接口: fast-elm 端口 9001
+- 前端项目: [vue2-elm](https://github.com/bailicangdu/vue2-elm) 端口 8000
+- 管理端项目: [vue2-manage](https://github.com/bailicangdu/vue2-manage) 端口 8002
+- 参考项目：[node-elm](https://github.com/bailicangdu/node-elm)
 
 # 使用指南:
   - 运行后端接口:
