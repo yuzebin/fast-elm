@@ -57,9 +57,7 @@
       - python 3.7
       - fastapi
       - mongodb 4
-      - 环境工具: poetry
-    - poetry install
-    - poetry shell
+    - pip install -r fmrequire.txt
     - 启动 mongodb 端口 27017
     - 导入数据
     - 运行服务
