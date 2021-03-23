@@ -101,7 +101,7 @@ nbconvert==5.6.1
 nbformat==4.4.0
 neobolt==1.7.16
 neotime==1.7.4
-notebook==6.0.2
+notebook==6.1.5
 numpy==1.17.4
 openpyxl==3.0.3
 packaging==20.0
